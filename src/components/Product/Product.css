@@ -1,0 +1,21 @@
+.product{
+    display:flex;
+    margin: 5px 15px 10px 5px;
+    padding: 5px;
+    border-bottom: 1px solid lightgray;
+}
+.product-name{
+    margin-left: 6px;
+}
+.main-btn{
+    background: goldenrod;
+    width: 200px;
+    line-height:30px ;
+    padding: 5px;
+    border: 2px solid pink;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.main-btn:hover{
+    background: lightcyan;
+}
