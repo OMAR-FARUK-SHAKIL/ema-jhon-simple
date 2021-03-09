@@ -1,3 +1,12 @@
 .cart{
     position: fixed;
 }
+.main-btn{
+    background: goldenrod;
+    width: 200px;
+    line-height:30px ;
+    padding: 5px;
+    border: 2px solid pink;
+    border-radius: 5px;
+    cursor: pointer;
+}
